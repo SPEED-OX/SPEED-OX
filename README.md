@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 link = "https://github.com/offici5l/MiTool/blob/main/install.sh"
 
-torawlink = link.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
+torawlink = link.replace("github.com", "printhi").replace("/blob/", "/")
 
 print(torawlink)
