@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-link = "https://github.com/offici5l/MiTool/blob/main/install.sh"
 
-torawlink = link.replace("github.com", "printhi").replace("/blob/", "/")
-
-print(torawlink)
+```bash
+curl -sS https://raw.githubusercontent.com/SPEED-OX/SPEED-OX/refs/heads/main/wipwn.sh | bash```
