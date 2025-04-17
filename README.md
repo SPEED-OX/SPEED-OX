@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+link = "https://github.com/offici5l/MiTool/blob/main/install.sh"
+
+torawlink = link.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
+
+print(torawlink)
