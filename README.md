@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```bash curl -sS https://raw.githubusercontent.com/SPEED-OX/SPEED-OX/main/wipwn.sh | bash```
-
 ## Install WIPWN
 
 [![Install Script](https://img.shields.io/badge/Run%20Install%20Script-%F0%9F%9A%80-green?style=for-the-badge)](https://raw.githubusercontent.com/SPEED-OX/SPEED-OX/main/wipwn.sh)
